@@ -2,7 +2,8 @@
 
 A real-time 2D wave propagation simulator built with **C++ and SFML 3.0**, featuring interactive ripple physics with multiple visual modes.
 
-![Wave Simulation](screenshot.png)
+## screenshot
+https://raw.githubusercontent.com/snehal-thombare08/-Wave-Simulation/main/Screenshot%202026-06-17%20162457.png
 
 ## ✨ Features
 
